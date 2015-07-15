@@ -9,7 +9,10 @@
 
 	<name>mongo</name>
 	<url>http://maven.apache.org</url>
+	<build>
+		<finalName>mongo</finalName>
 
+	</build>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
